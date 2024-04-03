@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 March 2024 - To: 31 March 2024
+From: 02 March 2024 - To: 01 April 2024
 
-Total Time: 29 hrs 31 mins
+Total Time: 29 hrs 2 mins
 
-JavaScript    10 hrs 2 mins   >>>>>>>>>----------------   34.00 %
-Artboard      9 hrs 34 mins   >>>>>>>>-----------------   32.42 %
-CSS           7 hrs 11 mins   >>>>>>-------------------   24.36 %
-HTML          2 hrs 30 mins   >>-----------------------   08.49 %
+Artboard      9 hrs 34 mins   >>>>>>>>-----------------   32.96 %
+JavaScript    9 hrs 33 mins   >>>>>>>>-----------------   32.90 %
+CSS           7 hrs 11 mins   >>>>>>-------------------   24.77 %
+HTML          2 hrs 30 mins   >>-----------------------   08.64 %
 Git Config    4 mins          -------------------------   00.25 %
 ```
 
