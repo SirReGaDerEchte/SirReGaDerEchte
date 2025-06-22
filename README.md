@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 May 2025 - To: 19 June 2025
+From: 21 May 2025 - To: 20 June 2025
 
-Total Time: 6 hrs 31 mins
+Total Time: 7 hrs 26 mins
 
-JavaScript   4 hrs 6 mins    >>>>>>>>>>>>>>>>---------   63.11 %
-Astro        1 hr 29 mins    >>>>>>-------------------   22.93 %
-Java         24 mins         >>-----------------------   06.28 %
-CSS          14 mins         >------------------------   03.60 %
-HTML         6 mins          -------------------------   01.71 %
+JavaScript   4 hrs 6 mins    >>>>>>>>>>>>>>-----------   55.33 %
+Astro        2 hrs 23 mins   >>>>>>>>-----------------   32.21 %
+Java         24 mins         >------------------------   05.51 %
+CSS          15 mins         >------------------------   03.37 %
+HTML         6 mins          -------------------------   01.50 %
 ```
 
 <!--END_SECTION:waka-->
