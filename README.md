@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 July 2025 - To: 12 August 2025
+From: 14 July 2025 - To: 13 August 2025
 
-Total Time: 47 hrs 8 mins
+Total Time: 40 hrs 37 mins
 
-Astro            20 hrs 30 mins  >>>>>>>>>>>--------------   43.34 %
-TypeScript       15 hrs 54 mins  >>>>>>>>-----------------   33.62 %
-JavaScript       4 hrs 17 mins   >>-----------------------   09.09 %
-Java             3 hrs 38 mins   >>-----------------------   07.68 %
-CSS              55 mins         -------------------------   01.96 %
+Astro            19 hrs 17 mins  >>>>>>>>>>>>-------------   47.30 %
+TypeScript       11 hrs 16 mins  >>>>>>>------------------   27.65 %
+JavaScript       4 hrs 6 mins    >>>----------------------   10.06 %
+Java             3 hrs 38 mins   >>-----------------------   08.91 %
+CSS              28 mins         -------------------------   01.17 %
 ```
 
 <!--END_SECTION:waka-->
