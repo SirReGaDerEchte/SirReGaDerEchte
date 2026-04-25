@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 March 2026 - To: 22 April 2026
+From: 24 March 2026 - To: 23 April 2026
 
-Total Time: 12 hrs 6 mins
+Total Time: 13 hrs 55 mins
 
-TypeScript   6 hrs 6 mins          >>>>>>>>>>>>>------------   50.52 %
-JavaScript   1 hr 54 mins          >>>>---------------------   15.73 %
-Astro        32 mins               >------------------------   04.41 %
-XML          0 secs                -------------------------   00.06 %
+TypeScript   6 hrs 6 mins          >>>>>>>>>>>--------------   43.82 %
+JavaScript   3 hrs 36 mins         >>>>>>-------------------   25.87 %
+Astro        32 mins               >------------------------   03.84 %
+HTML         5 mins                -------------------------   00.64 %
 ```
 
 <!--END_SECTION:waka-->
