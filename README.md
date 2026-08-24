@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 July 2026 - To: 21 August 2026
+From: 23 July 2026 - To: 22 August 2026
 
-Total Time: 7 hrs 15 mins
+Total Time: 11 hrs 6 mins
 
-Bash         2 hrs 42 mins         >>>>>>>>>----------------   36.99 %
-TypeScript   1 hr 30 mins          >>>>>--------------------   20.67 %
-JavaScript   1 hr 27 mins          >>>>>--------------------   19.86 %
-Astro        54 mins               >>>----------------------   12.32 %
-HTML         9 mins                >------------------------   02.27 %
+TypeScript    4 hrs 39 mins         >>>>>>>>>>---------------   41.67 %
+Bash          2 hrs 39 mins         >>>>>>-------------------   23.73 %
+Astro         2 hrs 16 mins         >>>>>--------------------   20.39 %
+JavaScript    52 mins               >>-----------------------   07.79 %
+CSS           11 mins               -------------------------   01.65 %
 ```
 
 <!--END_SECTION:waka-->
